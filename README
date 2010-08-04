@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3183
+
+Dumped! Please check this: http://www.vim.org/scripts/script.php?script_id=3220
+
+Based on original css.vim.
+
+Added CSS3 properties highlights, support most of CSS3 prop, and will recognize prefix like -moz-, -webkit-
+
+Next step is make both prop and attr highlight colors more readable.
+
+Welcome for any feedbacks!
